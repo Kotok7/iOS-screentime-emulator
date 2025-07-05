@@ -1,11 +1,19 @@
-# iOS-ScreenTime-Page-Website
-This ScreenTime website is a website that emulates the iOS screen time page on a website so you can get your screen time password. To get the screen time password that was entered you have to click on the loading image 10 times after the passcode was enter twice.
+# iOS Screen Time Page Website
 
-This website will only work for iOS dark mode users and only for iPads.
-Demo Website : https://screentimelimit.netlify.app/
+This project emulates the iOS Screen Time passcode page. It is designed to *look* like the real screen so that a parent might unknowingly reveal the Screen Time passcode.
 
-For Educational Purposes Only!
+## 🔍 How It Works
 
-# Updates
+1. **Start by entering a wrong password once.**  
+2. **Hand the iPad or iPhone to your parent** so they can enter the real passcode.
+3. **Once they enter the passcode**, tap the loading icon GIF **10 times** to reveal the entered digits.
 
-- Fixed the 0 in the password area not working
+## ⚙️ Requirements
+
+- iPad or iPhone
+- Dark mode
+*(Light mode is not supported.)*
+
+## 🌐 Demo
+
+👉 [Try the live demo](https://kotokk.dev/screentime)

@@ -1,6 +1,6 @@
 # iOS Screen Time Page Website
 
-This project emulates the iOS Screen Time passcode page. It is designed to *look* like the real screen so that a parent might unknowingly reveal the Screen Time passcode.
+This project emulates the iOS/iPad OS Screen Time passcode page. It is designed to *look* like the real screen so that a parent might unknowingly reveal the Screen Time passcode.
 
 ## 🔍 How It Works
 
@@ -10,9 +10,8 @@ This project emulates the iOS Screen Time passcode page. It is designed to *look
 
 ## ⚙️ Requirements
 
-- iPad or iPhone
+- iPad (or iPhone if your parents won't notice different keyboard layout)
 - Dark mode
-*(Light mode is not supported.)*
 
 ## 🌐 Demo
 
